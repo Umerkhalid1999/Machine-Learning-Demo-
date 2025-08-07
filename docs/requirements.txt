@@ -1,0 +1,32 @@
+# Diabetes Analysis Project Requirements
+# Python 3.8 or higher recommended
+
+# Core data science libraries
+numpy==1.24.3
+pandas==2.0.3
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Machine learning libraries
+scikit-learn==1.3.0
+xgboost==1.7.6
+joblib==1.3.1
+
+# Interactive visualization
+plotly==5.15.0
+ipywidgets==8.0.6
+
+# Jupyter notebooks
+jupyter==1.0.0
+notebook==6.5.4
+
+# Utility packages
+tqdm==4.65.0
+pillow==10.0.0
+
+# Documentation
+sphinx==7.1.1
+nbconvert==7.6.0
+
+# Optional: for web application demonstration
+streamlit==1.24.0
